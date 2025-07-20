@@ -1,4 +1,5 @@
  Java Projects ☕
+ 
  Welcome to the Java Projects repository!
 Here you’ll find a collection of mini applications developed using JavaFX, each designed to showcase essential GUI programming concepts and Java fundamentals.
 
